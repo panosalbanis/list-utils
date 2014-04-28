@@ -1,0 +1,8 @@
+# gradle #
+*.gradle
+
+# vim #
+*.swp
+
+# build products #
+build
